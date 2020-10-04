@@ -1,4 +1,4 @@
-# Python
+# Welcome to HacktoberFest 2020!
 
 ### Open for contribution
 
@@ -12,3 +12,6 @@ I am facing some errors in my code. The program is not working as it should be. 
 - Create your pull request
 - If you want you can give a star to my repository
 - Congratulations!! You have successfully created your pull request
+- Check your progress here (https://hacktoberfest.digitalocean.com/profile)
+
+Now just wait for your cool kit is all the 4 PRs are valid.
