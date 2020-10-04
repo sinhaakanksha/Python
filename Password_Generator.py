@@ -23,6 +23,7 @@ if __name__=="__main__":
     s.extend(list(s1)) # I am converting the string to list so that i can get each letter seperated and can the shuffle and add with other charecters to make the password
     s.extend(list(s2))
     s.extend(list(s3))
+    s.extend(list(s4))
    # print(s) #now s is my final list containing all the charecters that i need to generate the password
     random.shuffle(s) #The shuffle() method randomizes the items of a list in place
     #print(s)
